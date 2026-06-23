@@ -1,0 +1,1 @@
+DeadClock is a productivity-focused web application developed during FrontSprint, a frontend hackathon organized by GDG (Google Developer Groups). The project was built to help users stay consistent with their daily routines by providing an intuitive task-tracking experience combined with visual progress analytics.
